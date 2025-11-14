@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Resumatch
 
-## Getting Started
+Resumatch adalah aplikasi web yang membantu pengguna membuat dan menyesuaikan resume secara otomatis menggunakan kecerdasan buatan (AI). Aplikasi ini terhubung langsung dengan bot Telegram sehingga pengguna dapat menghasilkan resume dengan cepat, ringkas, dan sesuai kebutuhan karier mereka.
 
-First, run the development server:
+✨ **Live Demo:** https://resumatch-ivory.vercel.app/  
+📦 **Repository:** https://github.com/MHASBIANUR/Resumatch  
+
+---
+
+## 🚀 Fitur Utama
+
+- **AI Resume Generator** — resume dihasilkan otomatis melalui bot Telegram berbasis AI.  
+- **Landing Page Interaktif** — dirancang responsif dan menarik untuk memandu pengguna.  
+- **Integrasi Telegram** — pengguna langsung diarahkan ke bot tanpa proses rumit.  
+- **Performa Cepat** — menggunakan Next.js + Vercel untuk akses yang stabil.
+
+---
+
+## 🛠 Teknologi yang Digunakan
+
+| Teknologi | Fungsi |
+|----------|--------|
+| **Next.js** | Framework frontend untuk performa tinggi dan optimasi SEO |
+| **Tailwind CSS** | Styling modern, cepat, dan konsisten |
+| **Supabase** | Penyimpanan data sederhana |
+| **n8n** | Automasi backend: alur data + komunikasi bot Telegram |
+| **Vercel** | Deployment cepat dan stabil |
+
+---
+
+## 👤 Peran Saya
+
+Sebagai **Frontend Developer**, saya bertanggung jawab untuk:
+
+- Membangun landing page interaktif & responsif.  
+- Menciptakan alur pengguna dari website → bot Telegram dengan jelas dan efektif.  
+- Mengoptimalkan tampilan agar ringan, modern, dan mudah digunakan.
+
+---
+
+## 🔥 Tantangan
+
+- Menyusun alur pengguna yang **jelas** dari landing page ke bot Telegram.  
+- Menjaga UI tetap **ringan**, responsif, dan bebas error.  
+- Sinkronisasi frontend dengan automasi backend yang berjalan di n8n.
+
+---
+
+## ✅ Solusi
+
+- Menggunakan **Next.js** untuk performa cepat dan routing sederhana.  
+- Memanfaatkan **Tailwind CSS** untuk desain yang modern & fleksibel.  
+- Integrasi langsung tombol/CTA ke bot Telegram agar perpindahan platform mulus.  
+- Deployment menggunakan **Vercel** agar akses cepat dan stabil.
+
+---
+
+## 📸 Tampilan (Opsional)
+
+> Kalau kamu ingin, kasih screenshot nanti aku bantu formatting biar bagus.  
+Contoh placeholder:
+
+![Landing Page Preview](./public/preview.png)
+
+---
+
+📁 Struktur Proyek (Ringkas)
+/app
+  ├── page.tsx        # Landing page utama
+  ├── globals.css     # Global style
+/public
+  ├── images/         # Asset gambar
+
+---
+
+## 🧩 Cara Menjalankan Proyek
 
 ```bash
+# Install dependencies
+npm install
+
+# Jalankan development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Buka di browser
+http://localhost:3000
