@@ -55,21 +55,13 @@ Sebagai **Frontend Developer**, saya bertanggung jawab untuk:
 
 ---
 
-## 📸 Tampilan (Opsional)
+## 📸 Tampilan
 
-> Kalau kamu ingin, kasih screenshot nanti aku bantu formatting biar bagus.  
-Contoh placeholder:
+> Letakkan file gambar di folder `/public`  
+> Lalu gunakan link berikut:
 
-![Landing Page Preview](./public/preview.png)
+![Landing Page Preview](public/landingpage.png)
 
----
-
-📁 Struktur Proyek (Ringkas)
-/app
-  ├── page.tsx        # Landing page utama
-  ├── globals.css     # Global style
-/public
-  ├── images/         # Asset gambar
 
 ---
 
