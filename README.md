@@ -6,6 +6,12 @@ Resumatch adalah aplikasi web yang membantu pengguna membuat dan menyesuaikan re
 
 ---
 
+## 📸 Tampilan
+
+![Landing Page Preview](public/landingpage.png)
+
+---
+
 ## 🚀 Fitur Utama
 
 - **AI Resume Generator** — resume dihasilkan otomatis melalui bot Telegram berbasis AI.  
@@ -64,11 +70,6 @@ Sebagai **Frontend Developer**, saya bertanggung jawab untuk:
 ```
 ---
 
-## 📸 Tampilan
-
-![Landing Page Preview](public/landingpage.png)
-
----
 
 ## 🧩 Cara Menjalankan Proyek
 
