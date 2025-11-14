@@ -55,13 +55,14 @@ Sebagai **Frontend Developer**, saya bertanggung jawab untuk:
 
 ---
 
-📁 Struktur Proyek (Ringkas)
+## 📁 Struktur Proyek (Ringkas)
+```bash
 /app
   ├── page.tsx        # Landing page utama
   ├── globals.css     # Global style
 /public
   ├── landing-preview.png   # Screenshot tampilan
-
+```
 ---
 
 ## 📸 Tampilan
