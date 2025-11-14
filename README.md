@@ -55,13 +55,18 @@ Sebagai **Frontend Developer**, saya bertanggung jawab untuk:
 
 ---
 
+📁 Struktur Proyek (Ringkas)
+/app
+  ├── page.tsx        # Landing page utama
+  ├── globals.css     # Global style
+/public
+  ├── landing-preview.png   # Screenshot tampilan
+
+---
+
 ## 📸 Tampilan
 
-> Letakkan file gambar di folder `/public`  
-> Lalu gunakan link berikut:
-
 ![Landing Page Preview](public/landingpage.png)
-
 
 ---
 
