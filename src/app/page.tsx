@@ -341,7 +341,7 @@ export default function LandingPage() {
           <div>
             <h4 className="font-semibold mb-3">Get in Touch</h4>
             <div className="flex gap-4 mt-2">
-              <a href="https://www.linkedin.com/in/muhammad-hasbianur-4277361a6/" target="_blank">
+              <a href="https://www.linkedin.com/in/m-hasbianur/" target="_blank">
                 <Linkedin className="hover:text-gray-200 transition" />
               </a>
               <a href="https://github.com/MHASBIANUR" target="_blank">
