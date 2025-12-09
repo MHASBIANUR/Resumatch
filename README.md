@@ -3,7 +3,12 @@
 Resumatch adalah aplikasi web yang membantu pengguna membuat dan menyesuaikan resume secara otomatis menggunakan kecerdasan buatan (AI). Aplikasi ini terhubung langsung dengan bot Telegram sehingga pengguna dapat menghasilkan resume dengan cepat, ringkas, dan sesuai kebutuhan karier mereka.
 
 ✨ **Live Demo:** https://resumatch-ivory.vercel.app/  
-📦 **Repository:** https://github.com/MHASBIANUR/Resumatch  
+
+---
+
+## 📸 Tampilan
+
+![Landing Page Preview](public/landingpage.png)
 
 ---
 
@@ -55,23 +60,16 @@ Sebagai **Frontend Developer**, saya bertanggung jawab untuk:
 
 ---
 
-## 📸 Tampilan (Opsional)
-
-> Kalau kamu ingin, kasih screenshot nanti aku bantu formatting biar bagus.  
-Contoh placeholder:
-
-![Landing Page Preview](./public/preview.png)
-
----
-
-📁 Struktur Proyek (Ringkas)
+## 📁 Struktur Proyek (Ringkas)
+```bash
 /app
   ├── page.tsx        # Landing page utama
   ├── globals.css     # Global style
 /public
-  ├── images/         # Asset gambar
-
+  ├── landing-preview.png   # Screenshot tampilan
+```
 ---
+
 
 ## 🧩 Cara Menjalankan Proyek
 
